@@ -1,6 +1,6 @@
 # QGIS Kumiko SVG
 
-This repository contains the Kumiko patterns as SVGs into QGIS as SVG Fill.
+This repository contains the Kumiko patterns as SVGs into QGIS as SVG Fill. Go directly to the [*qgis-kumiko*](https://github.com/clronniema/qgis-kumiko-svg/tree/master/qgis-kumiko) directory to access the QGIS SVG Fill ready files.
 
 
 ## Inspiration
@@ -21,7 +21,7 @@ These attributes will allow QGIS to take control of the colors, and lines of the
 
 ## Example
 
-You may find a sample style file (.xml) in the *example* folder and try out the style. It should look something like this:
+You may find a sample style file (.xml) in the [*example*](https://github.com/clronniema/qgis-kumiko-svg/tree/master/example) folder and try out the style. It should look something like this:
 
 ![Finland Kumiko](example/finland_kumiko.png)
 
