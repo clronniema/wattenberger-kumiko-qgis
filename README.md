@@ -5,7 +5,7 @@ This repository contains the Kumiko patterns as SVGs into QGIS as SVG Fill.
 
 ## Inspiration
 
-This idea is inspired by Wattenberger's [Kumiko generator](https://kumiko-generator.netlify.app/). To view the source code, please go to this [GitHub](https://github.com/Wattenberger/kumiko) repository. I believe she was inspired by this [video](https://www.youtube.com/watch?v=-NuqwJz9RNE&ab_channel=%E7%AB%B9%E4%B8%AD%E5%A4%A7%E5%B7%A5%E9%81%93%E5%85%B7%E9%A4%A8)
+This idea is inspired by Wattenberger's [Kumiko generator](https://kumiko-generator.netlify.app/). To view the source code, please go to this [GitHub](https://github.com/Wattenberger/kumiko) repository. I believe she was inspired by this [video](https://www.youtube.com/watch?v=-NuqwJz9RNE&ab_channel=%E7%AB%B9%E4%B8%AD%E5%A4%A7%E5%B7%A5%E9%81%93%E5%85%B7%E9%A4%A8).
 
 ## Changes I Have Made to the SVGs
 
@@ -33,5 +33,5 @@ I have not figured how I could publish all the SVGs to QGIS Styles without gener
 
 ## Credits
 
-[@Wattenberger](https://github.com/Wattenberger) - for the awesome SVGs
-[@tjukanovt](https://github.com/tjukanovt) - for the awesome lecture during the ISSonVIS 2021 and advising 
+- [@Wattenberger](https://github.com/Wattenberger) - for the awesome SVGs
+- [@tjukanovt](https://github.com/tjukanovt) - for the awesome lecture during the ISSonVIS 2021 and advising 
