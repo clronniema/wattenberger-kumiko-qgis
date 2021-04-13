@@ -1,4 +1,4 @@
-# QGIS Kumiko SVG
+# Wattenberger Kumiko for QGIS
 
 This repository contains the Kumiko patterns as SVGs that are ready to be used in QGIS as SVG Fill.
 
