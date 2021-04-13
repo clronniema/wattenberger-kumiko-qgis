@@ -10,54 +10,54 @@ This idea is inspired by Wattenberger's [Kumiko generator](https://kumiko-genera
 
 The original Kumikos can be found in the [*kumiko*](https://github.com/clronniema/qgis-kumiko-svg/tree/master/kumiko) directory. Click on the images below to directly go to the raw content link for QGIS use.
 
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/a.svg"><img src="./kumiko/a.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha1.svg"><img src="./kumiko/asa-no-ha1.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha2.svg"><img src="./kumiko/asa-no-ha2.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha3.svg"><img src="./kumiko/asa-no-ha3.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha4.svg"><img src="./kumiko/asa-no-ha4.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha5.svg"><img src="./kumiko/asa-no-ha5.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/b.svg"><img src="./kumiko/b.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/c.svg"><img src="./kumiko/c.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/d.svg"><img src="./kumiko/d.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/e.svg"><img src="./kumiko/e.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/f.svg"><img src="./kumiko/f.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/g.svg"><img src="./kumiko/g.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/h.svg"><img src="./kumiko/h.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/i.svg"><img src="./kumiko/i.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/j.svg"><img src="./kumiko/j.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/k.svg"><img src="./kumiko/k.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma1.svg"><img src="./kumiko/kuruma1.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma2.svg"><img src="./kumiko/kuruma2.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma3.svg"><img src="./kumiko/kuruma3.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/l.svg"><img src="./kumiko/l.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/m.svg"><img src="./kumiko/m.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc1.svg"><img src="./kumiko/misc1.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc2.svg"><img src="./kumiko/misc2.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc3.svg"><img src="./kumiko/misc3.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc4.svg"><img src="./kumiko/misc4.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc5.svg"><img src="./kumiko/misc5.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc6.svg"><img src="./kumiko/misc6.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc7.svg"><img src="./kumiko/misc7.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/n.svg"><img src="./kumiko/n.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/o.svg"><img src="./kumiko/o.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/p.svg"><img src="./kumiko/p.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/q.svg"><img src="./kumiko/q.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/r.svg"><img src="./kumiko/r.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/rindo1.svg"><img src="./kumiko/rindo1.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/rindo2.svg"><img src="./kumiko/rindo2.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/rindo3.svg"><img src="./kumiko/rindo3.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/s.svg"><img src="./kumiko/s.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura1.svg"><img src="./kumiko/sakura1.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura1b.svg"><img src="./kumiko/sakura1b.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura2.svg"><img src="./kumiko/sakura2.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura3.svg"><img src="./kumiko/sakura3.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura4.svg"><img src="./kumiko/sakura4.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/t.svg"><img src="./kumiko/t.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/u.svg"><img src="./kumiko/u.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/v.svg"><img src="./kumiko/v.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/w.svg"><img src="./kumiko/w.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/x.svg"><img src="./kumiko/x.svg" width="48"  style="background-color:white"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/y.svg"><img src="./kumiko/y.svg" width="48"  style="background-color:white"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/a.svg"><img src="./png/a.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha1.svg"><img src="./png/asa-no-ha1.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha2.svg"><img src="./png/asa-no-ha2.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha3.svg"><img src="./png/asa-no-ha3.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha4.svg"><img src="./png/asa-no-ha4.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha5.svg"><img src="./png/asa-no-ha5.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/b.svg"><img src="./png/b.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/c.svg"><img src="./png/c.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/d.svg"><img src="./png/d.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/e.svg"><img src="./png/e.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/f.svg"><img src="./png/f.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/g.svg"><img src="./png/g.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/h.svg"><img src="./png/h.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/i.svg"><img src="./png/i.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/j.svg"><img src="./png/j.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/k.svg"><img src="./png/k.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma1.svg"><img src="./png/kuruma1.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma2.svg"><img src="./png/kuruma2.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma3.svg"><img src="./png/kuruma3.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/l.svg"><img src="./png/l.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/m.svg"><img src="./png/m.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc1.svg"><img src="./png/misc1.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc2.svg"><img src="./png/misc2.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc3.svg"><img src="./png/misc3.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc4.svg"><img src="./png/misc4.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc5.svg"><img src="./png/misc5.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc6.svg"><img src="./png/misc6.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/misc7.svg"><img src="./png/misc7.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/n.svg"><img src="./png/n.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/o.svg"><img src="./png/o.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/p.svg"><img src="./png/p.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/q.svg"><img src="./png/q.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/r.svg"><img src="./png/r.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/rindo1.svg"><img src="./png/rindo1.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/rindo2.svg"><img src="./png/rindo2.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/rindo3.svg"><img src="./png/rindo3.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/s.svg"><img src="./png/s.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura1.svg"><img src="./png/sakura1.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura1b.svg"><img src="./png/sakura1b.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura2.svg"><img src="./png/sakura2.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura3.svg"><img src="./png/sakura3.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/sakura4.svg"><img src="./png/sakura4.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/t.svg"><img src="./png/t.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/u.svg"><img src="./png/u.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/v.svg"><img src="./png/v.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/w.svg"><img src="./png/w.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/x.svg"><img src="./png/x.png" width="48"></a>
+<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/y.svg"><img src="./png/y.png" width="48"></a>
 
 
 ## Examples
