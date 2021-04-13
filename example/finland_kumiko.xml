@@ -1,0 +1,118 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol force_rhr="0" type="fill" alpha="1" clip_to_extent="1" name="finland kumiko" tags="Kumiko">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option value="" type="QString" name="name"/>
+          <Option name="properties"/>
+          <Option value="collection" type="QString" name="type"/>
+        </Option>
+      </data_defined_properties>
+      <layer class="SVGFill" enabled="1" locked="0" pass="0">
+        <Option type="Map">
+          <Option value="90" type="QString" name="angle"/>
+          <Option value="255,255,255,255" type="QString" name="color"/>
+          <Option value="166,206,227,255" type="QString" name="outline_color"/>
+          <Option value="0.215" type="QString" name="outline_width"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="outline_width_map_unit_scale"/>
+          <Option value="MM" type="QString" name="outline_width_unit"/>
+          <Option name="parameters"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="pattern_width_map_unit_scale"/>
+          <Option value="MM" type="QString" name="pattern_width_unit"/>
+          <Option value="qgis-kumiko/asa-no-ha4.svg" type="QString" name="svgFile"/>
+          <Option value="3x:0,0,0,0,0,0" type="QString" name="svg_outline_width_map_unit_scale"/>
+          <Option value="MM" type="QString" name="svg_outline_width_unit"/>
+          <Option value="20" type="QString" name="width"/>
+        </Option>
+        <prop k="angle" v="90"/>
+        <prop k="color" v="255,255,255,255"/>
+        <prop k="outline_color" v="166,206,227,255"/>
+        <prop k="outline_width" v="0.215"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="parameters" v=""/>
+        <prop k="pattern_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="pattern_width_unit" v="MM"/>
+        <prop k="svgFile" v="qgis-kumiko/asa-no-ha4.svg"/>
+        <prop k="svg_outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="svg_outline_width_unit" v="MM"/>
+        <prop k="width" v="20"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+        <symbol force_rhr="0" type="line" alpha="1" clip_to_extent="1" name="@finland kumiko@0">
+          <data_defined_properties>
+            <Option type="Map">
+              <Option value="" type="QString" name="name"/>
+              <Option name="properties"/>
+              <Option value="collection" type="QString" name="type"/>
+            </Option>
+          </data_defined_properties>
+          <layer class="SimpleLine" enabled="1" locked="0" pass="0">
+            <Option type="Map">
+              <Option value="0" type="QString" name="align_dash_pattern"/>
+              <Option value="square" type="QString" name="capstyle"/>
+              <Option value="5;2" type="QString" name="customdash"/>
+              <Option value="3x:0,0,0,0,0,0" type="QString" name="customdash_map_unit_scale"/>
+              <Option value="MM" type="QString" name="customdash_unit"/>
+              <Option value="0" type="QString" name="dash_pattern_offset"/>
+              <Option value="3x:0,0,0,0,0,0" type="QString" name="dash_pattern_offset_map_unit_scale"/>
+              <Option value="MM" type="QString" name="dash_pattern_offset_unit"/>
+              <Option value="0" type="QString" name="draw_inside_polygon"/>
+              <Option value="bevel" type="QString" name="joinstyle"/>
+              <Option value="4,90,141,255" type="QString" name="line_color"/>
+              <Option value="solid" type="QString" name="line_style"/>
+              <Option value="0.78" type="QString" name="line_width"/>
+              <Option value="MM" type="QString" name="line_width_unit"/>
+              <Option value="0" type="QString" name="offset"/>
+              <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
+              <Option value="MM" type="QString" name="offset_unit"/>
+              <Option value="0" type="QString" name="ring_filter"/>
+              <Option value="0" type="QString" name="tweak_dash_pattern_on_corners"/>
+              <Option value="0" type="QString" name="use_custom_dash"/>
+              <Option value="3x:0,0,0,0,0,0" type="QString" name="width_map_unit_scale"/>
+            </Option>
+            <prop k="align_dash_pattern" v="0"/>
+            <prop k="capstyle" v="square"/>
+            <prop k="customdash" v="5;2"/>
+            <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="customdash_unit" v="MM"/>
+            <prop k="dash_pattern_offset" v="0"/>
+            <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="dash_pattern_offset_unit" v="MM"/>
+            <prop k="draw_inside_polygon" v="0"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="line_color" v="4,90,141,255"/>
+            <prop k="line_style" v="solid"/>
+            <prop k="line_width" v="0.78"/>
+            <prop k="line_width_unit" v="MM"/>
+            <prop k="offset" v="0"/>
+            <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="ring_filter" v="0"/>
+            <prop k="tweak_dash_pattern_on_corners" v="0"/>
+            <prop k="use_custom_dash" v="0"/>
+            <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+            <data_defined_properties>
+              <Option type="Map">
+                <Option value="" type="QString" name="name"/>
+                <Option name="properties"/>
+                <Option value="collection" type="QString" name="type"/>
+              </Option>
+            </data_defined_properties>
+          </layer>
+        </symbol>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>

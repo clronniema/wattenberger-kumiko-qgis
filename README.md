@@ -1,14 +1,12 @@
 # QGIS Kumiko SVG
 
-This repository contains the Kumiko patterns as SVGs into QGIS as SVG Fill. Go directly to the [*qgis-kumiko*](https://github.com/clronniema/qgis-kumiko-svg/tree/master/qgis-kumiko) directory to view all access the QGIS SVG Fill ready files.
-
-I have not figured how I could publish all the SVGs to QGIS Styles without generating dozens of new styles. Please let me know if you have any suggestions!
+This repository contains the Kumiko patterns as SVGs that are ready to be used in QGIS as SVG Fill.
 
 ## Inspiration
 
-This idea is inspired by Wattenberger's [Kumiko generator](https://kumiko-generator.netlify.app/). To view the source code, please go to this [GitHub](https://github.com/Wattenberger/kumiko) repository. I believe she was inspired by this [video](https://www.youtube.com/watch?v=-NuqwJz9RNE&ab_channel=%E7%AB%B9%E4%B8%AD%E5%A4%A7%E5%B7%A5%E9%81%93%E5%85%B7%E9%A4%A8).
+This style package is inspired by Wattenberger's [Kumiko generator](https://kumiko-generator.netlify.app/). To view the source code, please go to this [GitHub](https://github.com/Wattenberger/kumiko) repository. I believe she was inspired by this [video](https://www.youtube.com/watch?v=-NuqwJz9RNE&ab_channel=%E7%AB%B9%E4%B8%AD%E5%A4%A7%E5%B7%A5%E9%81%93%E5%85%B7%E9%A4%A8).
 
-The original Kumikos can be found in the [*kumiko*](https://github.com/clronniema/qgis-kumiko-svg/tree/master/kumiko) directory. Click on the images below to directly go to the raw content link for QGIS use.
+The original Kumikos can be found in the [*kumiko*](https://github.com/clronniema/qgis-kumiko-svg/tree/master/kumiko) directory. Click on the images below to directly go to the raw content. More information at the bottom on applying these styles to QGIS.
 
 <a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/a.svg"><img src="./png/a.png" width="48"></a>
 <a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/asa-no-ha1.svg"><img src="./png/asa-no-ha1.png" width="48"></a>
@@ -62,18 +60,18 @@ The original Kumikos can be found in the [*kumiko*](https://github.com/clronniem
 
 ## Examples
 
-You may find sample style files (.qml) in the [*example*](https://github.com/clronniema/qgis-kumiko-svg/blob/master/example/) folder and try out the styles. Here are some rough examples of what you can do:
+Here are some rough examples of what you can do:
 
 #### [**Uniform Kumiko Applied over Municipalities of Finland**](https://github.com/clronniema/qgis-kumiko-svg/blob/master/example/finland_kumiko.qml)
 ![Finland Kumiko](example/finland_kumiko.png)
 #### [**World Population Kumiko by Population Rank**](https://github.com/clronniema/qgis-kumiko-svg/blob/master/example/countries_pop_kumiko.qml)
 ![World Population Kumiko](example/countries_pop_kumiko.png)
 
-## Changes I Have Made to the SVGs
+## Changes I Have Made to the Wattenberger SVGs
 
 The SVGs from Wattenberger are not directly usable for QGIS. The original images compose of a single tile of isocelese triangle, without filling up the whole SVG canvas. Therefore, I used the Python script *kumiko_to_square.py* to automatically complete the tessellation. 
 
-Also, the fill settings are adjusted according to the [documentation](https://docs.qgis.org/3.16/en/docs/user_manual/style_library/symbol_selector.html#svg-marker). They are:
+Also, the fill settings are adjusted according to the [QGIS documentation](https://docs.qgis.org/3.16/en/docs/user_manual/style_library/symbol_selector.html#svg-marker). They are:
 
 - fill=param(fill)
 - stroke=param(outline)
@@ -83,9 +81,11 @@ These attributes will allow QGIS to take control of the colors, and lines of the
 
 ## Applying the SVGs
 
-You may download the SVGs from this repository and register a folder for QGIS to search for SVGs. To do so, refer to this [QGIS Documentation](https://docs.qgis.org/3.16/en/docs/user_manual/introduction/qgis_configuration.html#svg-paths).
+You may find sample style files (.xml) in the [*example*](https://github.com/clronniema/qgis-kumiko-svg/blob/master/example/) folder and try out the styles. The styles are being reviewed in QGIS Style, hopefully they will be approved soon. Refer to this section of the [Importing Items](https://docs.qgis.org/3.16/en/docs/user_manual/style_library/style_manager.html#importing-items) section of documentation on importing styles.
 
-You may also go to one of the SVGs in this repository, then go to RAW to obtain a link like *https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/f.svg*. Use this link as your link to SVG. This is also the approach in the prepared style file examples.
+Another way is to download the SVGs from this repository and register a folder for QGIS to search for SVGs. To do so, refer to this section of the [System Settings](https://docs.qgis.org/3.16/en/docs/user_manual/introduction/qgis_configuration.html#svg-paths) section of the documentation.
+
+You may also scroll up in this readme and click the thumbnails of kumikos. Copy the link (i.e. *https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/f.svg*), use this link as your link to SVG. 
 
 Feel free to experiment with the **rotation** field as well, you may be surprised with the result!
 
