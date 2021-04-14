@@ -65,6 +65,8 @@ Here are some rough examples of what you can do:
 ![Finland Kumiko](example/finland_kumiko.png)
 #### [**World Population Kumiko by Population Rank**](https://github.com/clronniema/qgis-kumiko-svg/blob/master/example/countries_pop_kumiko.qml)
 ![World Population Kumiko](example/countries_pop_kumiko.png)
+#### **Varying Rotation Kumiko Pattern of Africa**
+![Varying Rotation Kumiko Pattern of Africa](example/africa_varying_rotation.jpg)
 
 ## Changes I Have Made to the Wattenberger SVGs
 
