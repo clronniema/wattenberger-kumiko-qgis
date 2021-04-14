@@ -23,7 +23,6 @@ The original Kumikos can be found in the [*kumiko*](https://github.com/clronniem
 <a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/h.svg"><img src="./png/h.png" width="48"></a>
 <a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/i.svg"><img src="./png/i.png" width="48"></a>
 <a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/j.svg"><img src="./png/j.png" width="48"></a>
-<a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/k.svg"><img src="./png/k.png" width="48"></a>
 <a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma1.svg"><img src="./png/kuruma1.png" width="48"></a>
 <a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma2.svg"><img src="./png/kuruma2.png" width="48"></a>
 <a href="https://raw.githubusercontent.com/clronniema/qgis-kumiko-svg/master/qgis-kumiko/kuruma3.svg"><img src="./png/kuruma3.png" width="48"></a>
