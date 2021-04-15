@@ -67,6 +67,8 @@ Here are some rough examples of what you can do:
 ![World Population Kumiko](example/countries_pop_kumiko.png)
 #### **Varying Rotation Kumiko Pattern of Africa**
 ![Varying Rotation Kumiko Pattern of Africa](example/africa_varying_rotation.jpg)
+#### **Kumiko Country GIF**
+![Kumiko Country GIF](example/kumiko_promo_country.gif)
 
 ## Changes I Have Made to the Wattenberger SVGs
 
